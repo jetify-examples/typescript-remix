@@ -1,5 +1,7 @@
 # Welcome to Remix!
 
+[![Deploy on Jetify](https://www.jetify.com/img/devbox/deploy-on-jetify-galaxy.svg)](https://cloud.jetify.com/team/new/deploy?repo=github.com/jetify-examples/typescript-remix)
+
 - 📖 [Remix docs](https://remix.run/docs)
 
 ## Development
